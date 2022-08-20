@@ -1,0 +1,13 @@
+/* CSS Document */
+
+a {
+	color: blue;
+}
+
+a.virtuais {
+	color: #FF0000;
+}
+
+a.estratégia {
+	color: #11CC00;
+}

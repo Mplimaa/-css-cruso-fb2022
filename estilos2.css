@@ -1,0 +1,30 @@
+/* CSS Document */
+
+body {
+	background-color:tan;
+}
+
+h1 {
+	color-maroon;
+}
+
+hr {
+	color:navy;
+}
+
+p {
+	font-size:16px;
+	margin-left:20px;
+}
+/* Para links não visitados código a seguir */
+a:link {color:green;}
+
+/* Para links já visitados código a seguir */
+a:visited {color:yellow;}
+
+
+/* Ao passar o mouse sobre os links código a seguir */
+a:hover {color:black;}
+
+/* Para links ativos código a seguir */
+a:active {color:blue}

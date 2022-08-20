@@ -1,0 +1,26 @@
+/* CSS Document */
+
+#Menu ul li {
+	display: inline;
+}
+
+#Menu ul li a {
+float: left;
+width: 82px;
+height: 78px;
+display: block;
+font-size: 12px;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+background: url('Imagem.png') no-repeat scroll 0 0 transparent;
+}
+
+#Menu ul li.Home a{background-position: 0px 0px;}
+#Menu ul li.Agenda a{background-position: -91px 0px;}
+#Menu ul li.Contato a{background-position: -181px 0px;}
+
+
+#Menu ul li.Home a:hover{background-position: 0px -78px;}
+#Menu ul li.Agenda a:hover{background-position: -91px -78px;}
+#Menu ul li.Contato a:hover{background-position: -181px -78px;}
